@@ -49,9 +49,13 @@ plot_tree(dt,feature_names=x.columns,filled=True)
 plt.show()
 ```
 ## Output:
-# Head:
+### Head:
 ![Screenshot 2024-10-18 035531](https://github.com/user-attachments/assets/25553681-1b66-4db7-bce4-13bd9b4aa7ad)
-# Mean Squared Error:
-
+### Mean Squared Error:
+![Screenshot 2024-10-18 035539](https://github.com/user-attachments/assets/a5724c2f-a6df-49c7-89e3-bc5c7af2a226)
+### Predicted Value:
+![Screenshot 2024-10-18 035552](https://github.com/user-attachments/assets/c1e2dd68-04db-4e1a-89da-af2eabb19d39)
+### Decision Tree:
+![Screenshot 2024-10-18 035606](https://github.com/user-attachments/assets/e79f688d-903d-4abc-8f46-da3cbfea074b)
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
