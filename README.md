@@ -20,6 +20,8 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: YOGESH. V
 RegisterNumber:  212223230250
 */
+```
+```
 import pandas as pd
 from sklearn.tree import  plot_tree
 data=pd.read_csv("/content/Salary.csv")
