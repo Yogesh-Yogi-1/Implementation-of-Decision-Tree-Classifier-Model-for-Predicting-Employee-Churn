@@ -39,7 +39,8 @@ le=LabelEncoder()
 data["salary"]=le.fit_transform(data["salary"])
 data.head()
 
-x=data[["satisfaction_level","last_evaluation","number_project","average_montly_hours","time_spend_company","Work_accident","promotion_last_5years","salary"]]
+x=data[["satisfaction_level","last_evaluation","number_project","average_montly_hours",
+    "time_spend_company","Work_accident","promotion_last_5years","salary"]]
 x.head()
 
 y=data["left"]
